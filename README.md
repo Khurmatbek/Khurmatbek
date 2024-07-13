@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://yt3.googleusercontent.com/ZuMWAxYgkgNVE7Ui9thOVPLpxmaCuef5NvBVnVTYaSGJBGPk3kHYjZ1VGKfra90yJ0FUsD2jCg=s900-c-k-c0x00ffffff-no-rj"/>
+<img src="https://yt3.googleusercontent.com/ZuMWAxYgkgNVE7Ui9thOVPLpxmaCuef5NvBVnVTYaSGJBGPk3kHYjZ1VGKfra90yJ0FUsD2jCg=s900-c-k-c0x00ffffff-no-rj" width="300" height="300"/>
 <a href="https://instagram.com/__ministry_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ministry_me" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@ministry_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ministry_me" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khurmatbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khurmatbek" height="30" width="40" /></a>
