@@ -26,23 +26,21 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="_blank">
+  <a href="https://www.linkedin.com/in/xurmatbek-olloyorov-914099288/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Khurmatbek" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:olloyorovxurmatbek1514@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
+<br/>
 ## ✍️ Quote I live by
 
 > "Clean code always looks like it was written by someone who cares." – Robert C. Martin
 
----
 
 
