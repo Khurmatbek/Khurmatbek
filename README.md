@@ -21,17 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,redux,git,github,docker,nodejs" />
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/xurmatbek-olloyorov-914099288/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" />
-  </a>
-  <a href="https://github.com/Khurmatbek" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" />
-  </a>
-  <a href="mailto:olloyorovxurmatbek1514@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <br/>
 
