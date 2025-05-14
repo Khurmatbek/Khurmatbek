@@ -18,11 +18,9 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,redux,git,github,docker,nodejs,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,redux,git,github,docker,nodejs,figma,nestjs,mongodb" />
 </p>
 
-
-<br/>
 
 > "Clean code always looks like it was written by someone who cares." – Robert C. Martin
 
