@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YourName</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | JavaScript Lover</h3>
+<h1 align="center">Hi 👋, I'm Khurmatbek </h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | JavaScript-React Js Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Building+clean+and+scalable+UIs;Obsessed+with+performance+and+UX;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -22,17 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,redux,git,github,docker,nodejs" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165" />
-</p>
-
----
 
 ## 📫 Connect with me
 
