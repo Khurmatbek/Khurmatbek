@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | JavaScript-React Js Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Building+clean+and+scalable+UIs;Obsessed+with+performance+and+UX;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img  width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Building+clean+and+scalable+UIs;Obsessed+with+performance+and+UX;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 
